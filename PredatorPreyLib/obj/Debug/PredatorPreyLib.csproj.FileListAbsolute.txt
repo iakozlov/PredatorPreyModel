@@ -1,0 +1,6 @@
+C:\Users\79857\Desktop\Курсовая работа\CourseWork\PredatorPreyLib\bin\Debug\PredatorPreyLib.dll
+C:\Users\79857\Desktop\Курсовая работа\CourseWork\PredatorPreyLib\bin\Debug\PredatorPreyLib.pdb
+C:\Users\79857\Desktop\Курсовая работа\CourseWork\PredatorPreyLib\obj\Debug\PredatorPreyLib.csprojAssemblyReference.cache
+C:\Users\79857\Desktop\Курсовая работа\CourseWork\PredatorPreyLib\obj\Debug\PredatorPreyLib.csproj.CoreCompileInputs.cache
+C:\Users\79857\Desktop\Курсовая работа\CourseWork\PredatorPreyLib\obj\Debug\PredatorPreyLib.dll
+C:\Users\79857\Desktop\Курсовая работа\CourseWork\PredatorPreyLib\obj\Debug\PredatorPreyLib.pdb
